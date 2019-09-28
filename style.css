@@ -1,0 +1,43 @@
+body{background: url("/Obrazky/wanaka.jpg");
+    background-position: top center;
+font-size: 20px;
+line-height: 30px;
+}
+
+
+card {}
+
+h1{
+color: rgb(122, 81, 160);
+font-size: 60px;
+font-family: elephant;
+text-align: center;
+}
+
+a{color: blueviolet}
+
+p {color: rgb(97, 26, 163);
+text-align: center;
+}
+
+img{
+img align-self: center;
+}
+
+.hlavicka:
+padding: {20px 20%;
+}
+
+.obrazek{
+    padding: 10px 40%;
+}
+
+.text{
+    padding: 15px 20%;
+}
+
+.paticka{
+    background-color: rgb(122, 81, 160);
+    text-align: center;
+    color: violet;
+}
